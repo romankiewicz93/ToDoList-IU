@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1D400187-8694-4DF1-9312-478E54DFFB93"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E9A12118-43A4-41D2-89BB-B25338ABED57"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ToDoList/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "E9A12118-43A4-41D2-89BB-B25338ABED57 - deeb38ba384feb4e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ToDoList.ViewController.__allocating_init(style: __C.UITableViewStyle) -&gt; ToDoList.ViewController"
+                  moduleName = "ToDoList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jonasromankiewicz/ToDoList/ToDoList/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "E9A12118-43A4-41D2-89BB-B25338ABED57 - 7182ceb9606384f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ToDoList.ViewController.init(style: __C.UITableViewStyle) -&gt; ToDoList.ViewController"
+                  moduleName = "ToDoList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jonasromankiewicz/ToDoList/ToDoList/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "E9A12118-43A4-41D2-89BB-B25338ABED57 - f6602ce633742bb3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ToDoList.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ToDoList.ViewController"
+                  moduleName = "ToDoList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jonasromankiewicz/ToDoList/ToDoList/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "E9A12118-43A4-41D2-89BB-B25338ABED57 - 9f856320b0cb7489"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ToDoList.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ToDoList.ViewController"
+                  moduleName = "ToDoList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jonasromankiewicz/ToDoList/ToDoList/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "E9A12118-43A4-41D2-89BB-B25338ABED57 - f2777616ded91ee8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ToDoList.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ToDoList.ViewController&gt;"
+                  moduleName = "ToDoList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jonasromankiewicz/ToDoList/ToDoList/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "E9A12118-43A4-41D2-89BB-B25338ABED57 - 2e0028b3047c88bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ToDoList.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ToDoList.ViewController&gt;"
+                  moduleName = "ToDoList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jonasromankiewicz/ToDoList/ToDoList/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "E9A12118-43A4-41D2-89BB-B25338ABED57 - 211d5bae563d75a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ToDoList.ViewController.__deallocating_deinit"
+                  moduleName = "ToDoList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jonasromankiewicz/ToDoList/ToDoList/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3C360369-ABA2-4571-A284-229A2E489C0E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ToDoList/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3986E1F4-93A9-40E6-A379-DED23B7829BB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ToDoList/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "configureUI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5CD22570-E149-4AFC-A808-E4FC46CC1881"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ToDoList/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "configureUI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DC1BFACD-1906-442C-8087-B6D6554982B4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ToDoList/ListCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ListCell"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EDCC589E-B752-4F6A-A8A7-8F86D3B482EA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ToDoList/Views/TodoDetail.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "configure(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EDCC589E-B752-4F6A-A8A7-8F86D3B482EA - 3ad21e23299a0d79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ToDoList.ToDoDetail.configure(with: ToDoList.ToDoListItem) -&gt; ()"
+                  moduleName = "ToDoList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jonasromankiewicz/ToDoList/ToDoList/Views/TodoDetail.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "EDCC589E-B752-4F6A-A8A7-8F86D3B482EA - 3ad21e23299a0d79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ToDoList.ToDoDetail.configure(with: ToDoList.ToDoListItem) -&gt; ()"
+                  moduleName = "ToDoList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jonasromankiewicz/ToDoList/ToDoList/Views/TodoDetail.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "292">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
